@@ -15,14 +15,6 @@ __pycache__/
 # Временные файлы Jupyter
 .ipynb_checkpoints/
 
-# Сохранённые модели и базы Optuna
-*.pkl
-*.pickle
-*.joblib
-*.db
-*.sqlite
-*.sqlite3
-
 # Секреты
 .env
 .env.*
