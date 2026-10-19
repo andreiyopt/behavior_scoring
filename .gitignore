@@ -1,0 +1,46 @@
+# Данные
+*.csv
+
+# Инструкции и настройки ИИ-агентов
+AGENTS.md
+AGENTS.override.md
+.codex/
+.chatgpt/
+
+# Окружения Python
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+
+# Сохранённые модели и базы Optuna
+*.pkl
+*.pickle
+*.joblib
+*.db
+*.sqlite
+*.sqlite3
+
+# Секреты
+.env
+.env.*
+!.env.example
+
+# Настройки редакторов
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
