@@ -1,12 +1,6 @@
 # Данные
 *.csv
 
-# Инструкции и настройки ИИ-агентов
-AGENTS.md
-AGENTS.override.md
-.codex/
-.chatgpt/
-
 # Окружения Python
 .venv/
 venv/
